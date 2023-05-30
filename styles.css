@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	width:100%;
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+
+div{
+	height:100px;
+	width:100px;
+}
+
+.div1{
+	background-color:green;	
+}
+.div2{
+	background-color:red;	
+}
+.div3{
+	background-color:blue;	
+}
+
