@@ -6,7 +6,7 @@
 	padding:0;
 }
 
-.container{
+.holder{
 	width:100%;
 	display:flex;
 	justify-content:space-between;
